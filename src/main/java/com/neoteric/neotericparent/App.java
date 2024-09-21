@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("from developer1");
         System.out.println("from developer2");
+        System.out.println("from hotfix1");
     }
 }
